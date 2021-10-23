@@ -25,12 +25,12 @@ public class Vectors implements VectorsInterface {
     }
     @Override
     public Vectors calculateVectorMult(Vectors vector2) { // метод для векторного произведения
-        double x1, y2, z3;
-        x1 = this.y * vector2.z - this.z * vector2.y;
-        y2 = this.z * vector2.x - this.x * vector2.z;
-        z3 = this.x * vector2.y - this.y * vector2.x;
+        double x, y, z;
+        x = this.y * vector2.z - this.z * vector2.y;
+        y = this.z * vector2.x - this.x * vector2.z;
+        z = this.x * vector2.y - this.y * vector2.x;
 
-        return new Vectors(x1, y2, z3);    // возвращаем новый вектор
+        return new Vectors(x, y, z);    // возвращаем новый вектор
     }
 
     public static String angleOfVectors(Vectors vector1, Vectors vector2) { // метод для cos угла между векторами
