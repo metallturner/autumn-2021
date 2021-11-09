@@ -1,0 +1,333 @@
+перемешанная коллекция
+take; took; taken; брать, хватать, взять
+tell; told; told; рассказывать
+come; came; come; приходить, подходить
+sink; sank; sunk; тонуть, погружаться
+lose; lost; lost; терять, лишаться, утрачивать
+get; got; got; получать, добираться
+hurt; hurt; hurt; ранить, причинять боль, ушибить
+feed; fed; fed; кормить
+send; sent; sent; посылать, отправлять, отсылать
+lead; led; led; вести за собой, сопровождать, руководить
+hit; hit; hit; ударять, поражать
+bend; bent; bent; гнуть
+hide; hid; hidden; прятать, скрывать
+shake; shook; shaken; трясти, встряхивать
+know; knew; known; знать, иметь представление
+find; found; found; находить, обнаруживать
+seek; sought; sought; искать, разыскивать
+hold; held; held; держать, удерживать, задерживать
+ring; rang; rung; звенеть, звонить
+read; read; read; читать, прочитать
+run; ran; run; бежать, бегать
+grow; grew; grown; расти, вырастать
+deal; dealt; dealt; иметь дело, распределять
+wear; wore; worn; носить (одежду)
+draw; drew; drawn; рисовать, чертить
+bring; brought; brought; приносить, привозить, доставлять
+light; lit; lit; зажигать, светиться, освещать
+tear; tore; torn; рвать, отрывать
+speak; spoke; spoken; говорить, разговаривать, высказываться
+lend; lent; lent; одалживать, давать взаймы (в долг)
+drink; drank; drunk; пить
+bite; bit; bitten; кусать
+dig; dug; dug; копать, рыть
+do; did; done; делать, выполнять
+rise; rose; risen; восходить, вставать, подниматься
+sell; sold; sold; продавать, торговать
+hang; hung; hung; вешать, развешивать, висеть
+go; went; gone; идти, двигаться
+shine; shone; shone; светить, сиять, озарять
+write; wrote; written; писать, записывать
+swim; swam; swum; плавать, плыть
+buy; bought; bought; покупать, приобретать
+fly; flew; flown; летать
+sit; sat; sat; сидеть, садиться
+shut; shut; shut; закрывать, запирать, затворять
+make; made; made; делать, создавать, изготавливать
+beat; beat; beaten; бить, колотить
+sleep; slept; slept; спать
+fight; fought; fought; драться, сражаться, воевать
+think; thought; thought; думать, мыслить, размышлять
+throw; threw; thrown; бросать, кидать, метать
+bet; bet; bet; держать пари
+teach; taught; taught; учить, обучать
+win; won; won; победить, выиграть
+pay; paid; paid; платить, оплачивать, рассчитываться
+put; put; put; ставить, помещать, класть
+cut; cut; cut; резать, разрезать
+swing; swung; swung; качаться, вертеться
+feel; felt; felt; чувствовать, ощущать
+shoot; shot; shot; стрелять
+lie; lay; lain; лежать
+blow; blew; blown; дуть, выдыхать
+wake; woke; woken; просыпаться, будить
+steal; stole; stolen; воровать, красть
+keep; kept; kept; хранить, сохранять, поддерживать
+fall; fell; fallen; падать
+catch; caught; caught; ловить, поймать, схватить
+have; had; had; иметь, обладать
+build; built; built; строить, сооружать
+stick; stuck; stuck; втыкать, приклеивать
+sweep; swept; swept; мести, подметать, смахивать
+swear; swore; sworn; клясться, присягать
+give; gave; given; дать, подать, дарить
+forgive; forgave; forgiven; прощать
+stand; stood; stood; стоять
+show; showed; shown, showed; показывать
+strike; struck; struck, stricken; ударять, бить, поражать
+spend; spent; spent; тратить, расходовать, проводить (время)
+freeze; froze; frozen; замерзать, замирать
+sing; sang; sung; петь, напевать
+cost; cost; cost; стоить, обходиться
+be; was, were; been; быть, являться
+break; broke; broken; ломать, разбивать, разрушать
+become; became; become; становиться
+drive; drove; driven; ездить, подвозить
+mean; meant; meant; значить, иметь в виду, подразумевать
+say; said; said; говорить, сказать, произносить
+hear; heard; heard; слышать, услышать
+meet; met; met; встречать, знакомиться
+leave; left; left; покидать, уходить, уезжать, оставлять
+forget; forgot; forgotten; забывать о (чём-либо)
+ride; rode; ridden; ехать верхом, кататься
+lay; laid; laid; класть, положить, покрывать
+let; let; let; позволять, разрешать
+see; saw; seen; видеть
+understand; understood; understood; понимать, постигать
+set; set; set; устанавливать, задавать, назначать
+eat; ate; eaten; есть, поглощать, поедать
+choose; chose; chosen; выбирать, избирать
+begin; began; begun; начинать
+------------------------------------------------------------
+отсортированная по rusName
+run; ran; run; бежать, бегать
+beat; beat; beaten; бить, колотить
+take; took; taken; брать, хватать, взять
+throw; threw; thrown; бросать, кидать, метать
+be; was, were; been; быть, являться
+lead; led; led; вести за собой, сопровождать, руководить
+hang; hung; hung; вешать, развешивать, висеть
+see; saw; seen; видеть
+steal; stole; stolen; воровать, красть
+rise; rose; risen; восходить, вставать, подниматься
+meet; met; met; встречать, знакомиться
+stick; stuck; stuck; втыкать, приклеивать
+choose; chose; chosen; выбирать, избирать
+bend; bent; bent; гнуть
+speak; spoke; spoken; говорить, разговаривать, высказываться
+say; said; said; говорить, сказать, произносить
+give; gave; given; дать, подать, дарить
+do; did; done; делать, выполнять
+make; made; made; делать, создавать, изготавливать
+bet; bet; bet; держать пари
+hold; held; held; держать, удерживать, задерживать
+fight; fought; fought; драться, сражаться, воевать
+think; thought; thought; думать, мыслить, размышлять
+blow; blew; blown; дуть, выдыхать
+drive; drove; driven; ездить, подвозить
+eat; ate; eaten; есть, поглощать, поедать
+ride; rode; ridden; ехать верхом, кататься
+forget; forgot; forgotten; забывать о (чём-либо)
+light; lit; lit; зажигать, светиться, освещать
+shut; shut; shut; закрывать, запирать, затворять
+freeze; froze; frozen; замерзать, замирать
+ring; rang; rung; звенеть, звонить
+know; knew; known; знать, иметь представление
+mean; meant; meant; значить, иметь в виду, подразумевать
+go; went; gone; идти, двигаться
+deal; dealt; dealt; иметь дело, распределять
+have; had; had; иметь, обладать
+seek; sought; sought; искать, разыскивать
+swing; swung; swung; качаться, вертеться
+lay; laid; laid; класть, положить, покрывать
+swear; swore; sworn; клясться, присягать
+dig; dug; dug; копать, рыть
+feed; fed; fed; кормить
+bite; bit; bitten; кусать
+lie; lay; lain; лежать
+fly; flew; flown; летать
+catch; caught; caught; ловить, поймать, схватить
+break; broke; broken; ломать, разбивать, разрушать
+sweep; swept; swept; мести, подметать, смахивать
+find; found; found; находить, обнаруживать
+begin; began; begun; начинать
+wear; wore; worn; носить (одежду)
+lend; lent; lent; одалживать, давать взаймы (в долг)
+fall; fell; fallen; падать
+sing; sang; sung; петь, напевать
+write; wrote; written; писать, записывать
+drink; drank; drunk; пить
+swim; swam; swum; плавать, плыть
+pay; paid; paid; платить, оплачивать, рассчитываться
+win; won; won; победить, выиграть
+let; let; let; позволять, разрешать
+show; showed; shown, showed; показывать
+leave; left; left; покидать, уходить, уезжать, оставлять
+buy; bought; bought; покупать, приобретать
+get; got; got; получать, добираться
+understand; understood; understood; понимать, постигать
+send; sent; sent; посылать, отправлять, отсылать
+bring; brought; brought; приносить, привозить, доставлять
+come; came; come; приходить, подходить
+sell; sold; sold; продавать, торговать
+wake; woke; woken; просыпаться, будить
+forgive; forgave; forgiven; прощать
+hide; hid; hidden; прятать, скрывать
+hurt; hurt; hurt; ранить, причинять боль, ушибить
+tell; told; told; рассказывать
+grow; grew; grown; расти, вырастать
+tear; tore; torn; рвать, отрывать
+cut; cut; cut; резать, разрезать
+draw; drew; drawn; рисовать, чертить
+shine; shone; shone; светить, сиять, озарять
+sit; sat; sat; сидеть, садиться
+hear; heard; heard; слышать, услышать
+sleep; slept; slept; спать
+put; put; put; ставить, помещать, класть
+become; became; become; становиться
+cost; cost; cost; стоить, обходиться
+stand; stood; stood; стоять
+shoot; shot; shot; стрелять
+build; built; built; строить, сооружать
+lose; lost; lost; терять, лишаться, утрачивать
+sink; sank; sunk; тонуть, погружаться
+spend; spent; spent; тратить, расходовать, проводить (время)
+shake; shook; shaken; трясти, встряхивать
+strike; struck; struck, stricken; ударять, бить, поражать
+hit; hit; hit; ударять, поражать
+set; set; set; устанавливать, задавать, назначать
+teach; taught; taught; учить, обучать
+keep; kept; kept; хранить, сохранять, поддерживать
+read; read; read; читать, прочитать
+feel; felt; felt; чувствовать, ощущать
+------------------------------------------------------------
+содержимое treeSet
+be; was, were; been; быть, являться
+beat; beat; beaten; бить, колотить
+become; became; become; становиться
+begin; began; begun; начинать
+bend; bent; bent; гнуть
+bet; bet; bet; держать пари
+bite; bit; bitten; кусать
+blow; blew; blown; дуть, выдыхать
+break; broke; broken; ломать, разбивать, разрушать
+bring; brought; brought; приносить, привозить, доставлять
+build; built; built; строить, сооружать
+buy; bought; bought; покупать, приобретать
+catch; caught; caught; ловить, поймать, схватить
+choose; chose; chosen; выбирать, избирать
+come; came; come; приходить, подходить
+cost; cost; cost; стоить, обходиться
+cut; cut; cut; резать, разрезать
+deal; dealt; dealt; иметь дело, распределять
+dig; dug; dug; копать, рыть
+do; did; done; делать, выполнять
+draw; drew; drawn; рисовать, чертить
+drink; drank; drunk; пить
+drive; drove; driven; ездить, подвозить
+eat; ate; eaten; есть, поглощать, поедать
+fall; fell; fallen; падать
+feed; fed; fed; кормить
+feel; felt; felt; чувствовать, ощущать
+fight; fought; fought; драться, сражаться, воевать
+find; found; found; находить, обнаруживать
+fly; flew; flown; летать
+forget; forgot; forgotten; забывать о (чём-либо)
+forgive; forgave; forgiven; прощать
+freeze; froze; frozen; замерзать, замирать
+get; got; got; получать, добираться
+give; gave; given; дать, подать, дарить
+go; went; gone; идти, двигаться
+grow; grew; grown; расти, вырастать
+hang; hung; hung; вешать, развешивать, висеть
+have; had; had; иметь, обладать
+hear; heard; heard; слышать, услышать
+hide; hid; hidden; прятать, скрывать
+hit; hit; hit; ударять, поражать
+hold; held; held; держать, удерживать, задерживать
+hurt; hurt; hurt; ранить, причинять боль, ушибить
+keep; kept; kept; хранить, сохранять, поддерживать
+know; knew; known; знать, иметь представление
+lay; laid; laid; класть, положить, покрывать
+lead; led; led; вести за собой, сопровождать, руководить
+leave; left; left; покидать, уходить, уезжать, оставлять
+lend; lent; lent; одалживать, давать взаймы (в долг)
+let; let; let; позволять, разрешать
+lie; lay; lain; лежать
+light; lit; lit; зажигать, светиться, освещать
+lose; lost; lost; терять, лишаться, утрачивать
+make; made; made; делать, создавать, изготавливать
+mean; meant; meant; значить, иметь в виду, подразумевать
+meet; met; met; встречать, знакомиться
+pay; paid; paid; платить, оплачивать, рассчитываться
+put; put; put; ставить, помещать, класть
+read; read; read; читать, прочитать
+ride; rode; ridden; ехать верхом, кататься
+ring; rang; rung; звенеть, звонить
+rise; rose; risen; восходить, вставать, подниматься
+run; ran; run; бежать, бегать
+say; said; said; говорить, сказать, произносить
+see; saw; seen; видеть
+seek; sought; sought; искать, разыскивать
+sell; sold; sold; продавать, торговать
+send; sent; sent; посылать, отправлять, отсылать
+set; set; set; устанавливать, задавать, назначать
+shake; shook; shaken; трясти, встряхивать
+shine; shone; shone; светить, сиять, озарять
+shoot; shot; shot; стрелять
+show; showed; shown, showed; показывать
+shut; shut; shut; закрывать, запирать, затворять
+sing; sang; sung; петь, напевать
+sink; sank; sunk; тонуть, погружаться
+sit; sat; sat; сидеть, садиться
+sleep; slept; slept; спать
+speak; spoke; spoken; говорить, разговаривать, высказываться
+spend; spent; spent; тратить, расходовать, проводить (время)
+stand; stood; stood; стоять
+steal; stole; stolen; воровать, красть
+stick; stuck; stuck; втыкать, приклеивать
+strike; struck; struck, stricken; ударять, бить, поражать
+swear; swore; sworn; клясться, присягать
+sweep; swept; swept; мести, подметать, смахивать
+swim; swam; swum; плавать, плыть
+swing; swung; swung; качаться, вертеться
+take; took; taken; брать, хватать, взять
+teach; taught; taught; учить, обучать
+tear; tore; torn; рвать, отрывать
+tell; told; told; рассказывать
+think; thought; thought; думать, мыслить, размышлять
+throw; threw; thrown; бросать, кидать, метать
+understand; understood; understood; понимать, постигать
+wake; woke; woken; просыпаться, будить
+wear; wore; worn; носить (одежду)
+win; won; won; победить, выиграть
+write; wrote; written; писать, записывать
+------------------------------------------------------------
+первое слово на букву 'с' в отсортированном по rusName списке
+shine; shone; shone; светить, сиять, озарять
+------------------------------------------------------------
+первое слово на букву 'т' в отсортированном по rusName списке
+lose; lost; lost; терять, лишаться, утрачивать
+------------------------------------------------------------
+первое слово на букву 'с' в первоначальном списке(как в файле)
+become; became; become; становиться
+------------------------------------------------------------
+первое слово на букву 'т' в первоначальном списке(как в файле)
+lose; lost; lost; терять, лишаться, утрачивать
+------------------------------------------------------------
+слова на букву 'с' и 'т' из navigableSet
+become; became; become; становиться
+build; built; built; строить, сооружать
+cost; cost; cost; стоить, обходиться
+hear; heard; heard; слышать, услышать
+lose; lost; lost; терять, лишаться, утрачивать
+put; put; put; ставить, помещать, класть
+shake; shook; shaken; трясти, встряхивать
+shine; shone; shone; светить, сиять, озарять
+shoot; shot; shot; стрелять
+sink; sank; sunk; тонуть, погружаться
+sit; sat; sat; сидеть, садиться
+sleep; slept; slept; спать
+spend; spent; spent; тратить, расходовать, проводить (время)
+stand; stood; stood; стоять
