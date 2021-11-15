@@ -1,0 +1,6 @@
+{"id":1,"name":"Ross Geller"}
+{"id":2,"name":"Monica Geller"}
+{"id":3,"name":"Rachel Green"}
+{"id":4,"name":"Joseph Tribbiany"}
+{"id":5,"name":"Phoebe Buffay"}
+{"id":6,"name":"Gunther"}
